@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hello there 👋
+<img src = "https://c.tenor.com/DSG9ZID25nsAAAAC/hello-there-general-kenobi.gif">
 <!--
 **Charz-a/Charz-a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
